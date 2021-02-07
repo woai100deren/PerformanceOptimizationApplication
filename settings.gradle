@@ -1,0 +1,3 @@
+include ':overdraw'
+include ':app'
+rootProject.name = "PerformanceOptimizationApplication"
